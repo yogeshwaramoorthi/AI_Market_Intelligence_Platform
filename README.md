@@ -29,13 +29,14 @@ This project builds an end-to-end AI system that:
 ## 📊 Dashboard Preview
 
 ### Overall Dashboard
-![dashboard_overview.png](screenshots/Screenshot1.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ### Market Segmentation & Sector Analysis
-![cluster_and_sector_analysis](screenshots/Screenshot2.png)
+![Cluster and Sector Analysis](screenshots/cluster_and_sector_analysis.png)
 
 ### AI-Generated Insight
-![ai_generated_insight](screenshots/Screenshot3.png)
+![AI Generated Insight](screenshots/ai_generated_insight.png)
+
 
 
 ---
